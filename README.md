@@ -1,2 +1,2 @@
 # Screenshot-Recorder
-# screnshooter codes
+ screnshooter codes
